@@ -21,6 +21,7 @@ The technical details of the application are:
 
 9.  JQuery 
 
+10. MS SQL Database.
 
 The steps to complete the order.
 1.	Adding to shopping cart
