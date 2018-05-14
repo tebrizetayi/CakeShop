@@ -1,0 +1,125 @@
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.csprojResolveAssemblyReference.cache
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.csproj.CoreCompileInputs.cache
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.AssemblyInfoInputs.cache
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.AssemblyInfo.cs
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.deps.json
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.runtimeconfig.json
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.runtimeconfig.dev.json
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.dll
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.pdb
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.dll
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.pdb
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.dll.config
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.csproj.CopyComplete
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.dll
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.pdb
+C:\Users\Atayi\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.deps.json
+C:\Users\Atayi\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.runtimeconfig.json
+C:\Users\Atayi\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.runtimeconfig.dev.json
+C:\Users\Atayi\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.dll
+C:\Users\Atayi\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.pdb
+C:\Users\Atayi\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.dll
+C:\Users\Atayi\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.pdb
+C:\Users\Atayi\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.dll.config
+C:\Users\Atayi\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.csprojResolveAssemblyReference.cache
+C:\Users\Atayi\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.csproj.CoreCompileInputs.cache
+C:\Users\Atayi\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.AssemblyInfoInputs.cache
+C:\Users\Atayi\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.AssemblyInfo.cs
+C:\Users\Atayi\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.dll
+C:\Users\Atayi\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.pdb
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.deps.json
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.runtimeconfig.json
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.runtimeconfig.dev.json
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.dll
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.pdb
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Implementation.dll
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Interface.dll
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.dll
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.dll
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.Transformation.dll
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.VM.dll
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Utility.dll
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Implementation.pdb
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Interface.pdb
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.Transformation.pdb
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.pdb
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.dll.config
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.pdb
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.VM.pdb
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Utility.pdb
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.csprojResolveAssemblyReference.cache
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.csproj.CoreCompileInputs.cache
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.AssemblyInfoInputs.cache
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.AssemblyInfo.cs
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.csproj.CopyComplete
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.dll
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.pdb
+C:\Users\Tabriz\Downloads\CakeShop (1)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.deps.json
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.runtimeconfig.json
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.runtimeconfig.dev.json
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.dll
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.pdb
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Implementation.dll
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Interface.dll
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.dll
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.dll
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.Transformation.dll
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.VM.dll
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Utility.dll
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Implementation.pdb
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Interface.pdb
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.Transformation.pdb
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.pdb
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.dll.config
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.pdb
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Utility.pdb
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.VM.pdb
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.csprojResolveAssemblyReference.cache
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.csproj.CoreCompileInputs.cache
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.AssemblyInfoInputs.cache
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.AssemblyInfo.cs
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.dll
+C:\Users\Atayi\Documents\GitHub\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.pdb
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.deps.json
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.runtimeconfig.json
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.runtimeconfig.dev.json
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.dll
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.pdb
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Implementation.dll
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Interface.dll
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.dll
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.dll
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.Transformation.dll
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.VM.dll
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Utility.dll
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Implementation.pdb
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Interface.pdb
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.Transformation.pdb
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.pdb
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.dll.config
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.pdb
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.VM.pdb
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Utility.pdb
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.csprojResolveAssemblyReference.cache
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.csproj.CoreCompileInputs.cache
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.AssemblyInfoInputs.cache
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.AssemblyInfo.cs
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.csproj.CopyComplete
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.dll
+C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\CakeShop.Net.Web.AspCore.pdb
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Implementation.dll
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Interface.dll
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.dll
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.Transformation.dll
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.VM.dll
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Utility.dll
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Implementation.pdb
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Interface.pdb
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.Transformation.pdb
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.pdb
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.VM.pdb
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\bin\Debug\netcoreapp2.0\CakeShop.Net.Utility.pdb
+C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Web\CakeShop.Net.Web.AspCore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

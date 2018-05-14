@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile></DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="6.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CakeShop.Net.Model.DM\CakeShop.Net.Model.DM.csproj" />
+    <ProjectReference Include="..\CakeShop.Net.Model.DTO\CakeShop.Net.Model.DTO.csproj" />
+    <ProjectReference Include="..\CakeShop.Net.Model.VM\CakeShop.Net.Model.VM.csproj" />
+  </ItemGroup>
+
+</Project>

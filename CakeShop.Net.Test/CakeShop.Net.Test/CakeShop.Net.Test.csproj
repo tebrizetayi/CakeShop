@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile></DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="appsettings.json">
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.6" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.3.0-preview-20170628-02" />
+    <PackageReference Include="Moq" Version="4.8.2" />
+    <PackageReference Include="MSTest.TestAdapter" Version="1.1.18" />
+    <PackageReference Include="MSTest.TestFramework" Version="1.1.18" />
+    <PackageReference Include="Microsoft.AspNetCore.TestHost" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\CakeShop.Net.BS\CakeShop.Net.BS.Implementation\CakeShop.Net.BS.Implementation.csproj" />
+    <ProjectReference Include="..\..\CakeShop.Net.BS\CakeShop.Net.BS.Interface\CakeShop.Net.BS.Interface.csproj" />
+    <ProjectReference Include="..\..\CakeShop.Net.Model\CakeShop.Net.Model.DataTransformation\CakeShop.Net.Model.Transformation.csproj" />
+    <ProjectReference Include="..\..\CakeShop.Net.Model\CakeShop.Net.Model.DTO\CakeShop.Net.Model.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

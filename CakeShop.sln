@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CakeShop.Net.Model", "CakeShop.Net.Model", "{808A6DDA-C863-4529-8DD2-4765E3CC9064}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CakeShop.Net.Web", "CakeShop.Net.Web", "{41482A0A-399F-4B0B-B0B3-B7463D102452}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CakeShop.Net.Model.DM", "CakeShop.Net.Model\CakeShop.Net.Model.DM\CakeShop.Net.Model.DM.csproj", "{B6D753E3-8B51-4817-8596-A7FBD35B8A26}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CakeShop.Net.BS.Interface", "CakeShop.Net.BS\CakeShop.Net.BS.Interface\CakeShop.Net.BS.Interface.csproj", "{C7B0E809-574B-4407-87D8-A2258C992EFD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CakeShop.Net.BS", "CakeShop.Net.BS", "{E2AFAC34-87D0-4754-A93C-E789FDF70629}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CakeShop.Net.BS.Implementation", "CakeShop.Net.BS\CakeShop.Net.BS.Implementation\CakeShop.Net.BS.Implementation.csproj", "{6D401945-7CE8-49CD-A72A-C6C4F6602A93}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CakeShop.Net.Model.DTO", "CakeShop.Net.Model\CakeShop.Net.Model.DTO\CakeShop.Net.Model.DTO.csproj", "{7729CEE3-D05E-49A8-AE04-FB22977F9510}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CakeShop.Net.Test", "CakeShop.Net.Test\CakeShop.Net.Test\CakeShop.Net.Test.csproj", "{F06293AC-E192-4445-8EED-B0EEB626FE63}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CakeShop.Net.Model.Transformation", "CakeShop.Net.Model\CakeShop.Net.Model.DataTransformation\CakeShop.Net.Model.Transformation.csproj", "{A8ECCD00-1E15-469B-BA5A-CBECD13B4B27}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CakeShop.Net.Web.AspCore", "CakeShop.Net.Web\CakeShop.Net.Web.AspCore\CakeShop.Net.Web.AspCore.csproj", "{202FA51F-AA7F-4015-864A-9D8937040F36}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CakeShop.Net.Utility", "CakeShop.Net.Utility\CakeShop.Net.Utility.csproj", "{90BAC078-4E4E-4C76-8C66-9D52C76AA589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeShop.Net.Model.VM", "CakeShop.Net.Model\CakeShop.Net.Model.VM\CakeShop.Net.Model.VM.csproj", "{7C29FDBE-AFC1-45E0-AC2C-D57014FD682C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6D753E3-8B51-4817-8596-A7FBD35B8A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D753E3-8B51-4817-8596-A7FBD35B8A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D753E3-8B51-4817-8596-A7FBD35B8A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D753E3-8B51-4817-8596-A7FBD35B8A26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B0E809-574B-4407-87D8-A2258C992EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B0E809-574B-4407-87D8-A2258C992EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B0E809-574B-4407-87D8-A2258C992EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B0E809-574B-4407-87D8-A2258C992EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D401945-7CE8-49CD-A72A-C6C4F6602A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D401945-7CE8-49CD-A72A-C6C4F6602A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D401945-7CE8-49CD-A72A-C6C4F6602A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D401945-7CE8-49CD-A72A-C6C4F6602A93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7729CEE3-D05E-49A8-AE04-FB22977F9510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7729CEE3-D05E-49A8-AE04-FB22977F9510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7729CEE3-D05E-49A8-AE04-FB22977F9510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7729CEE3-D05E-49A8-AE04-FB22977F9510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F06293AC-E192-4445-8EED-B0EEB626FE63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06293AC-E192-4445-8EED-B0EEB626FE63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06293AC-E192-4445-8EED-B0EEB626FE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06293AC-E192-4445-8EED-B0EEB626FE63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8ECCD00-1E15-469B-BA5A-CBECD13B4B27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8ECCD00-1E15-469B-BA5A-CBECD13B4B27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8ECCD00-1E15-469B-BA5A-CBECD13B4B27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8ECCD00-1E15-469B-BA5A-CBECD13B4B27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202FA51F-AA7F-4015-864A-9D8937040F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202FA51F-AA7F-4015-864A-9D8937040F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202FA51F-AA7F-4015-864A-9D8937040F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202FA51F-AA7F-4015-864A-9D8937040F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90BAC078-4E4E-4C76-8C66-9D52C76AA589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90BAC078-4E4E-4C76-8C66-9D52C76AA589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90BAC078-4E4E-4C76-8C66-9D52C76AA589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90BAC078-4E4E-4C76-8C66-9D52C76AA589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C29FDBE-AFC1-45E0-AC2C-D57014FD682C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C29FDBE-AFC1-45E0-AC2C-D57014FD682C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C29FDBE-AFC1-45E0-AC2C-D57014FD682C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C29FDBE-AFC1-45E0-AC2C-D57014FD682C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B6D753E3-8B51-4817-8596-A7FBD35B8A26} = {808A6DDA-C863-4529-8DD2-4765E3CC9064}
+		{C7B0E809-574B-4407-87D8-A2258C992EFD} = {E2AFAC34-87D0-4754-A93C-E789FDF70629}
+		{6D401945-7CE8-49CD-A72A-C6C4F6602A93} = {E2AFAC34-87D0-4754-A93C-E789FDF70629}
+		{7729CEE3-D05E-49A8-AE04-FB22977F9510} = {808A6DDA-C863-4529-8DD2-4765E3CC9064}
+		{A8ECCD00-1E15-469B-BA5A-CBECD13B4B27} = {808A6DDA-C863-4529-8DD2-4765E3CC9064}
+		{202FA51F-AA7F-4015-864A-9D8937040F36} = {41482A0A-399F-4B0B-B0B3-B7463D102452}
+		{7C29FDBE-AFC1-45E0-AC2C-D57014FD682C} = {808A6DDA-C863-4529-8DD2-4765E3CC9064}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {698AE807-5AB6-4EB2-8E61-4A4D35A58043}
+	EndGlobalSection
+EndGlobal

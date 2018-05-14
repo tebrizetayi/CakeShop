@@ -1,0 +1,6 @@
+﻿@model IEnumerable<PieVM>
+
+@foreach (var pie in Model)
+{
+    @Html.Partial("_Pie", pie)
+}
