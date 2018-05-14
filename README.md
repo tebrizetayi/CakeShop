@@ -1,16 +1,25 @@
 # CakeShop
 This application is an example of small Pie Shop.The bakery shop sells pies.
 
-The technical details of the application are:
-1.Unit of Pattern -eeps track of everything you do during a business transaction that can affect the database. When you're done, it figures out everything that needs to be done to alter the database as a result of your work.
-2.Repository Pattern
-3.Test Units (Microsoft Test Units)
-4.Moq - For mocking the dependencies.
-5.Entitity Framework Core - Code First Approach
-6.DotNet core with ASP Core MVC- Tag Helpers,ViewComponent, ViewModel
-7.Automapper
-7.Bootstrap
-8.JQuery
+The technical details of the application are:   
+
+1.  Unit of Pattern -keeps track of everything you do during a business transaction that can affect the database. When you're done, it     figures out everything that needs to be done to alter the database as a result of your work. 
+
+2.  Repository Pattern  
+
+3.  Test Units (Microsoft Test Units)  
+
+4.  Moq - For mocking the dependencies. 
+
+5.  Entitity Framework Core - Code First Approach 
+
+6.  DotNet core with ASP Core MVC- Tag Helpers,ViewComponent, ViewModel 
+
+7.  Automapper 
+
+8.  Bootstrap 
+
+9.  JQuery 
 
 
 The steps to complete the order.
