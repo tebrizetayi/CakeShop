@@ -144,3 +144,33 @@ C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Test\CakeShop.Net.Test\
 C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.Utility.dll
 C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.VM.pdb
 C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.Utility.pdb
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.Test.deps.json
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.Test.runtimeconfig.json
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.Test.runtimeconfig.dev.json
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.Test.dll
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.Test.pdb
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Implementation.dll
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Interface.dll
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.dll
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.dll
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.Transformation.dll
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.VM.dll
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.Utility.dll
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Implementation.pdb
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Interface.pdb
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.Transformation.pdb
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.pdb
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.pdb
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.dll.config
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.VM.pdb
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\bin\Debug\netcoreapp2.0\CakeShop.Net.Utility.pdb
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\obj\Debug\netcoreapp2.0\CakeShop.Net.Test.csprojResolveAssemblyReference.cache
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\obj\Debug\netcoreapp2.0\CakeShop.Net.Test.csproj.CoreCompileInputs.cache
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\obj\Debug\netcoreapp2.0\CakeShop.Net.Test.AssemblyInfoInputs.cache
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\obj\Debug\netcoreapp2.0\CakeShop.Net.Test.AssemblyInfo.cs
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\obj\Debug\netcoreapp2.0\CakeShop.Net.Test.csproj.CopyComplete
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\obj\Debug\netcoreapp2.0\CakeShop.Net.Test.dll
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Test\CakeShop.Net.Test\obj\Debug\netcoreapp2.0\CakeShop.Net.Test.pdb

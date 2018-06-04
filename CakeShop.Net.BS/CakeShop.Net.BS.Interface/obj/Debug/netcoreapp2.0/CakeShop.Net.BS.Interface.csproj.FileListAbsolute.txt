@@ -62,3 +62,17 @@ C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.BS\CakeShop.Net.BS.
 C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.BS\CakeShop.Net.BS.Interface\obj\Debug\netcoreapp2.0\CakeShop.Net.BS.Interface.pdb
 C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.BS\CakeShop.Net.BS.Interface\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.Core.dll
 C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.BS\CakeShop.Net.BS.Interface\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.BS\CakeShop.Net.BS.Interface\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Interface.deps.json
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.BS\CakeShop.Net.BS.Interface\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Interface.dll
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.BS\CakeShop.Net.BS.Interface\bin\Debug\netcoreapp2.0\CakeShop.Net.BS.Interface.pdb
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.BS\CakeShop.Net.BS.Interface\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.dll
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.BS\CakeShop.Net.BS.Interface\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.BS\CakeShop.Net.BS.Interface\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.pdb
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.BS\CakeShop.Net.BS.Interface\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.BS\CakeShop.Net.BS.Interface\obj\Debug\netcoreapp2.0\CakeShop.Net.BS.Interface.csprojResolveAssemblyReference.cache
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.BS\CakeShop.Net.BS.Interface\obj\Debug\netcoreapp2.0\CakeShop.Net.BS.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.BS\CakeShop.Net.BS.Interface\obj\Debug\netcoreapp2.0\CakeShop.Net.BS.Interface.AssemblyInfoInputs.cache
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.BS\CakeShop.Net.BS.Interface\obj\Debug\netcoreapp2.0\CakeShop.Net.BS.Interface.AssemblyInfo.cs
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.BS\CakeShop.Net.BS.Interface\obj\Debug\netcoreapp2.0\CakeShop.Net.BS.Interface.csproj.CopyComplete
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.BS\CakeShop.Net.BS.Interface\obj\Debug\netcoreapp2.0\CakeShop.Net.BS.Interface.dll
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.BS\CakeShop.Net.BS.Interface\obj\Debug\netcoreapp2.0\CakeShop.Net.BS.Interface.pdb

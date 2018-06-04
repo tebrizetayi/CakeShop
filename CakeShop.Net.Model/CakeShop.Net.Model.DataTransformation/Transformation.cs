@@ -2,6 +2,7 @@
 using CakeShop.Net.Model.DM;
 using CakeShop.Net.Model.DTO;
 using CakeShop.Net.Model.VM;
+using Microsoft.AspNetCore.Identity;
 using System;
 using System.Collections.Generic;
 
@@ -50,6 +51,17 @@ namespace CakeShop.Net.Model
                                                   .ForMember(s => s.LastName, m => m.MapFrom(p => p.LastName))
                                                   .ForMember(s => s.Username, m => m.MapFrom(p => p.Username));
 
+                cfg.CreateMap<LoginVM, IdentityUser>().ForMember(s => s.UserName, m => m.MapFrom(p => p.UserName));
+
+                cfg.CreateMap<UserVM, IdentityUser>().ForMember(s => s.UserName, m => m.MapFrom(p => p.Username))
+                                                     .ForMember(s => s.Email, m => m.MapFrom(p => p.Email));
+
+                cfg.CreateMap<IdentityUser, EditUserVM>().ForMember(s => s.Username, m => m.MapFrom(p => p.UserName))
+                                                         .ForMember(s => s.Id, m => m.MapFrom(p => p.Id))
+                                                         .ForMember(s => s.Email, m => m.MapFrom(p => p.Email));
+                cfg.CreateMap<EditUserVM, IdentityUser>().ForMember(s => s.UserName, m => m.MapFrom(p => p.Username))
+                                                         .ForMember(s => s.Id, m => m.MapFrom(p => p.Id))
+                                                         .ForMember(s => s.Email, m => m.MapFrom(p => p.Email));
 
                 #endregion
 
@@ -88,13 +100,13 @@ namespace CakeShop.Net.Model
                               .ForMember(s => s.CreatedDate, m => m.MapFrom(p => p.ShoppingCartItemCreatedDate))
                               .ForMember(s => s.Id, m => m.MapFrom(p => p.Id))
                               .ForMember(s => s.ModifiedDate, m => m.MapFrom(p => p.ShoppingCartItemModifiedDate))
-                              .ForMember(s => s.Pie, m => m.MapFrom(p => new PieDto() { Id=p.ShoppingCartItem_PieId}))
+                              .ForMember(s => s.Pie, m => m.MapFrom(p => new PieDto() { Id = p.ShoppingCartItem_PieId }))
                               .ForMember(s => s.ShoppingCart, m => m.MapFrom(p => new PieDto() { Id = p.ShoppingCartItem_ShoppingCartId }));
                 cfg.CreateMap<ShoppingCartItemDto, ShoppingCartItem>().ForMember(s => s.ShoppingCartItemAmount, m => m.MapFrom(p => p.Amount))
                               .ForMember(s => s.ShoppingCartItemCreatedDate, m => m.MapFrom(p => p.CreatedDate))
                               .ForMember(s => s.Id, m => m.MapFrom(p => p.Id))
                               .ForMember(s => s.ShoppingCartItemModifiedDate, m => m.MapFrom(p => p.ModifiedDate))
-                              .ForMember(s => s.ShoppingCartItem_PieId, m => m.MapFrom(p => p.Pie!=null?p.Pie.Id:Guid.Empty))
+                              .ForMember(s => s.ShoppingCartItem_PieId, m => m.MapFrom(p => p.Pie != null ? p.Pie.Id : Guid.Empty))
                               .ForMember(s => s.ShoppingCartItemStatus, m => m.MapFrom(p => p.Status))
                               .ForMember(s => s.ShoppingCartItem_ShoppingCartId, m => m.MapFrom(p => p.ShoppingCart != null ? p.ShoppingCart.Id : Guid.Empty));
                 cfg.CreateMap<ShoppingCartItemDto, ShoppingCartItemVM>().ForMember(s => s.Amount, m => m.MapFrom(p => p.Amount))
@@ -138,8 +150,8 @@ namespace CakeShop.Net.Model
                                                   .ForMember(s => s.OrderDetailAmount, m => m.MapFrom(p => p.Amount))
                                                   .ForMember(s => s.OrderDetailPrice, m => m.MapFrom(p => p.Price))
                                                   .ForMember(s => s.OrderDetailStatus, m => m.MapFrom(p => p.Status))
-                                                  .ForMember(s => s.OrderDetail_OrderId, m => m.MapFrom(p => p.Order!=null?p.Order.Id :Guid.Empty))
-                                                  .ForMember(s => s.OrderDetail_PieId, m => m.MapFrom(p => p.Order!=null?p.Pie.Id:Guid.Empty));
+                                                  .ForMember(s => s.OrderDetail_OrderId, m => m.MapFrom(p => p.Order != null ? p.Order.Id : Guid.Empty))
+                                                  .ForMember(s => s.OrderDetail_PieId, m => m.MapFrom(p => p.Order != null ? p.Pie.Id : Guid.Empty));
 
                 cfg.CreateMap<OrderDetail, OrderDetailDto>().ForMember(s => s.Id, m => m.MapFrom(p => p.Id))
                                                   .ForMember(s => s.ModifiedDate, m => m.MapFrom(p => p.OrderDetailModifiedDate))
@@ -194,5 +206,5 @@ namespace CakeShop.Net.Model
         {
             Mapper.Reset();
         }
-}
+    }
 }

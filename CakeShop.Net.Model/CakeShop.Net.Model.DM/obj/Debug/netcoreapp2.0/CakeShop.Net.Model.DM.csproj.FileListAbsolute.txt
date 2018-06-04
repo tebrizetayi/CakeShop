@@ -47,3 +47,12 @@ C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Model\CakeShop.Net.
 C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Model\CakeShop.Net.Model.DM\obj\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.dll
 C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Model\CakeShop.Net.Model.DM\obj\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.pdb
 C:\Users\Tabriz\Downloads\CakeShop\CakeShop\CakeShop.Net.Model\CakeShop.Net.Model.DM\obj\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.csprojResolveAssemblyReference.cache
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Model\CakeShop.Net.Model.DM\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.dll.config
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Model\CakeShop.Net.Model.DM\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.deps.json
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Model\CakeShop.Net.Model.DM\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.dll
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Model\CakeShop.Net.Model.DM\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.pdb
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Model\CakeShop.Net.Model.DM\obj\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.csproj.CoreCompileInputs.cache
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Model\CakeShop.Net.Model.DM\obj\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.AssemblyInfoInputs.cache
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Model\CakeShop.Net.Model.DM\obj\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.AssemblyInfo.cs
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Model\CakeShop.Net.Model.DM\obj\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.dll
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Model\CakeShop.Net.Model.DM\obj\Debug\netcoreapp2.0\CakeShop.Net.Model.DM.pdb

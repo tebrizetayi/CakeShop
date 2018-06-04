@@ -1,4 +1,5 @@
 ﻿using CakeShop.Net.BS.Interface;
+using CakeShop.Net.Model;
 using CakeShop.Net.Model.VM;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
@@ -14,11 +15,11 @@ namespace CakeShop.Net.Web.AspCore
     [Authorize]
     public class AccountController : Controller
     {
-        private readonly IUserManagementBS _userBs;
+        private readonly IUserManagementBS _userManagementBs;
 
-        public AccountController(IUserManagementBS userBS)
+        public AccountController(IUserManagementBS userManagementBs)
         {
-            _userBs = userBS;
+            _userManagementBs = userManagementBs;
         }
 
         [AllowAnonymous]
@@ -37,7 +38,7 @@ namespace CakeShop.Net.Web.AspCore
         {
             if (ModelState.IsValid)
             {
-                var result = await _userBs.Login(loginVm.UserName, loginVm.Password);
+                var result = await _userManagementBs.Login(loginVm.UserName, loginVm.Password);
                 if (result.Succeeded)
                 {
                     if (string.IsNullOrEmpty(loginVm.ReturnUrl))
@@ -63,7 +64,8 @@ namespace CakeShop.Net.Web.AspCore
         {
             if (ModelState.IsValid)
             {
-                var result = await _userBs.Register(loginVm.UserName, loginVm.Password);
+                var identityUser = Transformation.Convert<LoginVM, IdentityUser>(loginVm);
+                var result = await _userManagementBs.Register(identityUser, loginVm.Password);
                 if (result.Succeeded)
                     return RedirectToAction("Index", "Home");
             }
@@ -73,7 +75,7 @@ namespace CakeShop.Net.Web.AspCore
         [HttpPost]
         public async Task<IActionResult> Logout()
         {
-            await _userBs.LogOff();
+            await _userManagementBs.LogOff();
             return RedirectToAction("Index", "Home");
         }
     }

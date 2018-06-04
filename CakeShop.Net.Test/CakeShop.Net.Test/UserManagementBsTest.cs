@@ -88,7 +88,7 @@ namespace CakeShop.Net.Test
             var identityUser = new IdentityUser(usrname);
             _userManager.Setup(x => x.CreateAsync(identityUser, psw)).Returns(new Task<IdentityResult>(() => new IdentityResult()));
             //Act
-            var signInResult = _userManagementBs.Register(usrname, psw);
+            var signInResult = _userManagementBs.Register(identityUser, psw);
             //Assert
             _userManager.Verify(x => x.CreateAsync(It.IsAny<IdentityUser>(), psw), Times.Once, "CreateAsync in UserManager is not called!");
         }

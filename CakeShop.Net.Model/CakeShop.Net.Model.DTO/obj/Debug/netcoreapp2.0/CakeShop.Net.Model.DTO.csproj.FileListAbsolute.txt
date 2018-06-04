@@ -41,3 +41,11 @@ C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Model\CakeShop.Net.
 C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Model\CakeShop.Net.Model.DTO\obj\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.AssemblyInfo.cs
 C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Model\CakeShop.Net.Model.DTO\obj\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.dll
 C:\Users\Tabriz\Downloads\CakeShop (2)\CakeShop\CakeShop.Net.Model\CakeShop.Net.Model.DTO\obj\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.pdb
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Model\CakeShop.Net.Model.DTO\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.deps.json
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Model\CakeShop.Net.Model.DTO\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.dll
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Model\CakeShop.Net.Model.DTO\bin\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.pdb
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Model\CakeShop.Net.Model.DTO\obj\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Model\CakeShop.Net.Model.DTO\obj\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.AssemblyInfoInputs.cache
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Model\CakeShop.Net.Model.DTO\obj\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.AssemblyInfo.cs
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Model\CakeShop.Net.Model.DTO\obj\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.dll
+C:\Users\Tabriz\Downloads\CakeShop-master (1)\CakeShop-master\CakeShop.Net.Model\CakeShop.Net.Model.DTO\obj\Debug\netcoreapp2.0\CakeShop.Net.Model.DTO.pdb

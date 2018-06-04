@@ -55,6 +55,7 @@
     <Compile Include="PieVM.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ShoppingCartItemVM.cs" />
+    <Compile Include="EditUserVM.cs" />
     <Compile Include="UserVM.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

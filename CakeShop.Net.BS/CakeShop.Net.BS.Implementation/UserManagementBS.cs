@@ -3,6 +3,8 @@ using CakeShop.Net.Model.DM;
 using CakeShop.Net.Model.DTO;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using System;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace CakeShop.Net.BS.Implementation
@@ -47,9 +49,9 @@ namespace CakeShop.Net.BS.Implementation
         /// <param name="username">Username of a new user.</param>
         /// <param name="password">Password of a new user.</param>
         /// <returns></returns>
-        public async Task<IdentityResult> Register(string username, string password)
+        public async Task<IdentityResult> Register(IdentityUser identityUser, string password)
         {
-            IdentityUser identityUser = new IdentityUser(username);
+            identityUser.Id = Guid.NewGuid().ToString();
             var result = await _userManager.CreateAsync(identityUser, password);
             return result;
         }
@@ -62,5 +64,59 @@ namespace CakeShop.Net.BS.Implementation
         {
             await _signInManager.SignOutAsync();
         }
+
+        /// <summary>
+        /// Gets all user in the system.
+        /// </summary>
+        /// <returns></returns>
+        public IQueryable<IdentityUser> Users()
+        {
+            return _userManager.Users;
+        }
+
+        /// <summary>
+        /// Deleting from database
+        /// </summary>
+        /// <param name="userId">Id of the deleting user.</param>
+        /// <returns>IdentityResult is returned</returns>
+        public async Task<IdentityResult> Delete(string userId)
+        {
+            IdentityUser user = await _userManager.FindByIdAsync(userId);
+            if (user == null)
+            {
+                return null;
+            }
+            return await _userManager.DeleteAsync(user);
+        }
+
+        /// <summary>
+        /// Gets User by given Id
+        /// </summary>
+        /// <param name="userId">Id of user</param>
+        /// <returns>IdentityUser is returned</returns>
+        public async Task<IdentityUser> GetById(string userId)
+        {
+            IdentityUser user = await _userManager.FindByIdAsync(userId);
+            return user;
+        }
+
+        /// <summary>
+        /// Update the users
+        /// </summary>
+        /// <param name="identityUser">User that should be updated.</param>
+        /// <returns>IdentityResult is returned.</returns>
+        public async Task<IdentityResult> Edit(IdentityUser identityUser)
+        {
+            var user = await _userManager.FindByIdAsync(identityUser.Id);
+
+            if (user == null)
+            {
+                return null;
+            }
+            user.Email = identityUser.Email;
+            user.UserName = identityUser.UserName;
+            return await _userManager.UpdateAsync(user);
+        }
+
     }
 }
